@@ -1,3 +1,4 @@
 # CaSe_CoNvErTeR
-This simple web app allows users to convert text between lowercase and uppercase. It takes a text-based file as input and converts all the lowercase characters to uppercase and vice versa. The app provides an intuitive user interface where users can upload their files and instantly see the converted output. It's built using Python and Flask framework.
-# Live at https://aaniranjan.pythonanywhere.com/
+Introducing CaSeCoNvErTeR, a simple web app that effortlessly converts text between lowercase and uppercase. With its intuitive user interface, you can easily upload your text-based files and instantly witness the magic of conversion. Whether you need to transform lowercase text to uppercase or vice versa, CaSeCoNvErTeR has got you covered. Built using Python and the Flask framework, this app offers a seamless and efficient solution for all your case conversion needs.
+
+## Live at https://aaniranjan.pythonanywhere.com/
